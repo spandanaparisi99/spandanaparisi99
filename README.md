@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently a graduate student at Northeastern University<br>👯 I’m looking to collaborate on Data Analysis projects<br>🤝 I’m looking for help with competitive programming and data structures<br>🌱 I’m currently learning C++<br>💬 Ask me about cats<br>⚡ Fun fact about me, love making my own clothes
+🔭 I’m currently a graduate student at Northeastern University<br>🤝 I’m looking for help with competitive programming and data structures<br>🌱 I’m currently learning C++<br>💬 Ask me about cats<br>⚡ Fun fact about me, love making my own clothes
 
 
 ## 🌐 Socials:
